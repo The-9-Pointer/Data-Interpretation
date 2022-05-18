@@ -5,7 +5,7 @@ Here are some CAT previous year questions on Data Interpretation.
 - Download the pdf file.
 - View it in your pc.
 - Want to learn how it's solved?
-- Get to our [Data-interpretation](https://www.youtube.com/playlist?list=PL9L1_Z45QSeN789arNDDmEJvi6PdnAbGn) youtube playlist.
+- Get to our [Data-interpretation](https://www.youtube.com/playlist?list=PL9L1_Z45QSeOEKdfipNz0aIVaSmTXSugZ) youtube playlist.
 
 Keep learning and growing!:slightly_smiling_face:
 
